@@ -1,7 +1,7 @@
 # IA-para-negocios
 # Inteligência Artificial para Negócios
 
-Bem-vindo ao repositório de Inteligência Artificial para Negócios. Este projeto contém uma coleção de recursos, incluindo prompts otimizados, exemplos práticos e documentação detalhada para ajudar empresas a implementarem e utilizarem inteligência artificial em suas operações. Nosso objetivo é fornecer ferramentas e conhecimentos que facilitem a transformação digital e aumentem a eficiência e competitividade dos negócios.
+Bem-vindo ao repositório de Inteligência Artificial para Negócios. Este projeto contém uma coleção de recursos, incluindo prompts otimizados, exemplos práticos e documentação detalhada para ajudar empresas a implementarem e utilizarem inteligência artificial em suas operações. Meu objetivo é fornecer ferramentas e conhecimentos que facilitem a transformação digital e aumentem a eficiência e competitividade dos negócios.
 
 ## Conteúdo do Repositório
 
